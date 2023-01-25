@@ -1,7 +1,7 @@
 ---
 title: Jose Rosas
 subtitle: The Future of Business and Web 3.0 / Decentralized Technologies
-image: img/joserosas.jpg
+image: img/trevor-vannoy-5kebpelo5lk-unsplash.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
